@@ -1,6 +1,6 @@
 We hope you enjoy our enclosure for the Raspberry Pi 2/3. You can print this at home with your own 3D printer, or order from our Shapeways store. 
 
-![Shapeways Link](https://www.shapeways.com/product/5PRSG7529/rpi3-21case?optionId=59818617)
+[Shapeways Link](https://www.shapeways.com/product/5PRSG7529/rpi3-21case?optionId=59818617)
 
 Print on your own
 -----------------

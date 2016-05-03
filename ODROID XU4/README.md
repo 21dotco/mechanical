@@ -1,6 +1,6 @@
 We hope you enjoy our enclosure for the ODROID XU4. You can print this at home with your own 3D printer, or order from our Shapeways store. 
 
-![Shapeways Link](https://www.shapeways.com/product/333FCHTEM/odroid-xu4-21case?optionId=59818566)
+[Shapeways Link](https://www.shapeways.com/product/333FCHTEM/odroid-xu4-21case?optionId=59818566)
 
 Print on your own
 -----------------
