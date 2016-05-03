@@ -1,10 +1,18 @@
-# 21.co Mechanical Repository
+We hope you enjoy our enclosure for the ODROID XU4. You can print this at home with your own 3D printer, or order from our Shapeways store. 
 
-This repository contains open sourced mechanical designs by 21.co. Included are .STL files, suitable for slicng and 3D printing with your own printer.
+![Shapeways Link](https://www.shapeways.com/product/333FCHTEM/odroid-xu4-21case?optionId=59818566)
 
-Alternatively, you can purchase completed 3D prints through Shapeways on the 21.co store. 
+Print on your own
+-----------------
+We used the program Simplify 3D to slice for the LUZBot Taz 5. Below are some of the basic settings we used when printing with PLA. 
 
-Link: [21.co Shapeways Store](https://www.shapeways.com/shops/21-1)
+3D Printing Information
+--------------------
+* LulzBot Taz 5
+* Layer height: .35mm
+* No support material
+* Heated Bed: 60C
+* Extruder: 220C
 
 ------------------------
 
