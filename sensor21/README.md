@@ -2,6 +2,8 @@ We hope you enjoy our enclosure for the MPL3115A2 for use with Sensor21. You can
 
 [Shapeways Link](https://www.shapeways.com/product/G6MZS2XAC/sensor21?optionId=59912628)
 
+You will need 4 screws to attach the MPL3115A2 to the case and seal the lid. You can buy our recommended screws [here](http://www.mcmaster.com/nav/enter.asp?partnum=99461A173).
+
 Print on your own
 -----------------
 We used the program Simplify 3D to slice for the LUZBot Taz 5. Below are some of the basic settings we used when printing with PLA. 
