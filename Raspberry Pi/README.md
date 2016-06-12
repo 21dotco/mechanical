@@ -4,11 +4,17 @@ We hope you enjoy our enclosures for the Raspberry Pi 2/3. You can print this at
 
 RPi Enclosure_top.STL is the cap for the enclosure
 
+
 double_jbs_rpi_enclosure_bottom.STL
+
 jbs_rpi_enclosure_bottom.STL
+
 jbs_rpi_enclosure_bottom_SUPERFINE_MESH.STL
+
 jbs_rpi_enclosure_bottom_embossed_logo.STL (this logo is smaller than other ones)
+
 (above logos all have a circle cut into the enclosure with the jumbuck embossed to be flush with enclosure main surface)
+
 
 jbs_rpi_enclosure_bottom_engraved_logo.STL (this logo is smaller than other ones)
 
