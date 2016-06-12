@@ -4,6 +4,8 @@ We hope you enjoy our enclosures for the Raspberry Pi 2/3. You can print this at
 
 RPi Enclosure_top.STL is the cap for the enclosure
 
+------------------------
+
 
 double_jbs_rpi_enclosure_bottom.STL
 
