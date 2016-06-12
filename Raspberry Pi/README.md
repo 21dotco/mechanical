@@ -2,6 +2,9 @@ We hope you enjoy our enclosures for the Raspberry Pi 2/3. You can print this at
 
 ------------------------
 
+
+------------------------
+
 Content licensed under the MIT License
 
 The MIT License (MIT)
