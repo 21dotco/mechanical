@@ -1,10 +1,6 @@
-# 21.co Mechanical Repository
+# John's RPi Mechanical Repository
 
-This repository contains open sourced mechanical designs by 21.co. Included are .STL files, suitable for slicng and 3D printing with your own printer.
-
-Alternatively, you can purchase completed 3D prints through Shapeways on the 21.co store. 
-
-Link: [21.co Shapeways Store](https://www.shapeways.com/shops/21-1)
+This repository contains open sourced mechanical designs for raspberry pi cases. Included are .STL files, suitable for slicng and 3D printing with your own printer.
 
 ------------------------
 
