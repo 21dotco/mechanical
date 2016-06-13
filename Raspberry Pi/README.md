@@ -1,18 +1,19 @@
-We hope you enjoy our enclosure for the Raspberry Pi 2/3. You can print this at home with your own 3D printer, or order from our Shapeways store. 
+We hope you enjoy our enclosures for the Raspberry Pi 2/3. You can print this at home with your own 3D printer
 
-[Shapeways Link](https://www.shapeways.com/product/5PRSG7529/rpi3-21case?optionId=59818617)
+------------------------
 
-Print on your own
------------------
-We used the program Simplify 3D to slice for the LUZBot Taz 5. Below are some of the basic settings we used when printing with PLA. 
+RPi Enclosure_top.STL is the cap for the enclosure
 
-3D Printing Information
---------------------
-* LulzBot Taz 5
-* Layer height: .35mm
-* No support material
-* Heated Bed: 60C
-* Extruder: 220C
+------------------------
+
+
+double_jbs_rpi_enclosure_bottom.STL
+
+jbs_rpi_enclosure_bottom.STL
+
+jbs_rpi_enclosure_bottom_SUPERFINE_MESH.STL
+
+(above logos all have a circle cut into the enclosure with the jumbuck embossed to be flush with enclosure main surface)
 
 ------------------------
 
