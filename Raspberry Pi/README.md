@@ -18,7 +18,7 @@ We used the program Simplify 3D to slice for the LUZBot Taz 5. Below are some of
 
 Content licensed under the FreeBSD License
 
-Copyright (c) 2015-2016, 21 Inc.
+Copyright (c) 2015-2017, 21 Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

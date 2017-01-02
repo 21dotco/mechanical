@@ -10,7 +10,7 @@ Link: [21.co Shapeways Store](https://www.shapeways.com/shops/21-1)
 
 Content licensed under the FreeBSD License
 
-Copyright (c) 2015-2016, 21 Inc.
+Copyright (c) 2015-2017, 21 Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
